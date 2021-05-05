@@ -15,6 +15,7 @@ def zero_one_sort(array):
     #Output num_zeroes 0s followed by num_ones 1s
     result = []
     # looping zeroes
+    # next step
     for i in range(0, num_zeroes):
         result.append(0)
     # looping ones
